@@ -38,7 +38,7 @@
 
   <!-- <strong>Learn with Asabeneh by joining the upcoming [<em>CODING BOOTCAMP</em>](https://docs.google.com/forms/d/e/1FAIpQLSf0oNIYR9XU1DCctfl-pY36KbWse-SQX5aQaUgetqSinFYnmQ/viewform) </strong> -->
 
-🧡🧡🧡 HAPPY CODING 🧡🧡🧡
+🧡🧡🧡 HAPPY CDING 🧡🧡🧡
 
 <div>
 <small>Support the <strong>author</strong> to create more educational materials</small> <br />  
